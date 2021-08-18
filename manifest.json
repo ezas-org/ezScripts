@@ -1,0 +1,22 @@
+{
+    "name": "ezScripts",
+    "short_name": "ezScripts",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#303030",
+    "theme_color": "#FF0000",
+    "description": "Scripts Redemption",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [{
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
